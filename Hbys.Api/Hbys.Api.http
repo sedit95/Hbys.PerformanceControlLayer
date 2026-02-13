@@ -1,0 +1,6 @@
+@Hbys.Api_HostAddress = http://localhost:5228
+
+GET {{Hbys.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
